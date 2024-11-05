@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharad102003
 - 👀 I’m interested in Web dev and open source contribution
 - 🌱 I’m currently learning next.js
-- 💞️ I’m looking to collaborate on new projects
+
 
 <!---
 sharad102003/sharad102003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
