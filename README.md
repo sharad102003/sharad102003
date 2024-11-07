@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharad102003
 - 👀 I’m interested in Web dev and open source contribution
-- 🌱 I’m currently learning next.js
+
 
 
 <!---
